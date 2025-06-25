@@ -53,3 +53,8 @@ This sheet is more than a calendar—it’s a strategy. It helps:
 - Engage audiences with varied content
 - Drive traffic and reinforce brand values
 - Support long-term reputation building
+
+## OUTPUT
+
+[COD tech task 1.xlsx](https://github.com/user-attachments/files/20907618/COD.tech.task.1.xlsx)
+
