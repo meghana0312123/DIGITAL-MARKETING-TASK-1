@@ -55,8 +55,11 @@ This sheet is more than a calendar—it’s a strategy. It helps:
 ## BENEFITS
 
 -Ready-to-use social calendar for teams
+
 -Builds emotional connection with followers
+
 -Reflects brand heritage and luxury voice
+
 -Saves time and aligns marketing efforts
 
 
